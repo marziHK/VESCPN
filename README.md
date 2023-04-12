@@ -1,4 +1,4 @@
-# VESCPN
+# VESPCN
 Keras implementation of VESPCN with MSE, DCT2 , and Quantized DCT Loss functions.
 
 
